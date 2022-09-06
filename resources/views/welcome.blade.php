@@ -94,6 +94,11 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+                <div>
+                    <ul>
+                        <a href="\HelloWorld.blade.php">Let hello the world</a>
+                    </ul>
+                </div>
             </div>
         </div>
     </body>
